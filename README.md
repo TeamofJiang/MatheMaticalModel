@@ -1,2 +1,2 @@
 # MatheMaticalModel
-- 第一章 对变化进行建模
+- 第一章 线性规划
